@@ -5,7 +5,7 @@ public class MergeSort {
             arr[i] = 10 - i;
         }
         display(arr);
-        System.out.println("");
+        System.out.println();
         display(arr);
         int[] arr2 = new int[]{31, 2, 8, 1, 8, 24, 7, 10, 99, 0};
         display(arr2);
